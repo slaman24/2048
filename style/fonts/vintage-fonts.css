@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "Abril Fatface";
+    src: url("abril-fatface-latin-400-normal.woff2") format("woff2"),
+         url("abril-fatface-latin-400-normal.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Old Standard TT";
+    src: url("old-standard-tt-latin-400-normal.woff2") format("woff2"),
+         url("old-standard-tt-latin-400-normal.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Old Standard TT";
+    src: url("old-standard-tt-latin-700-normal.woff2") format("woff2"),
+         url("old-standard-tt-latin-700-normal.woff") format("woff");
+    font-weight: 700;
+    font-style: normal;
+}
